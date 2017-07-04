@@ -11,8 +11,8 @@ $ dfs < input
 ```
 
 ### Input Format
-* First line of input contains the number of vertices, v, and the number of edges, e.
-* Then there are e lines of input, representing each edge.
+* First line of input contains the number of vertices, `v`, and the number of edges, `e`.
+* Then there are `e` lines of input, representing each edge.
 
 ```
 5 6
